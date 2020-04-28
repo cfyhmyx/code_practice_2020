@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Cp332 {
+public class Cp0332 {
     public static void main(String args[]) {
 
     }
