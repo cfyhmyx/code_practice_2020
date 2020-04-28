@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Cp399 {
+public class Cp0399 {
     public static void main(String args[]) {
         List<List<String>> equations = new ArrayList<>();
         List<String> equation_1 = new ArrayList<>();
