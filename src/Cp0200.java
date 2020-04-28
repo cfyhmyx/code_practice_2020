@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/number-of-islands/
 
-public class Cp200 {
+public class Cp0200 {
 
     public static void main(String args[]) {
         char[][] grid = {{'1','1','0','0','0'}, {'1','1','0','0','0'},{'0','0','1','0','0'},{'0','0','0','1','1'}};
