@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/as-far-from-land-as-possible/
 
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
