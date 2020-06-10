@@ -7,13 +7,13 @@ import java.util.Stack;
 public class Cp0144 {
 
     public static void main(String args[]) {
-        Cp0094.TreeNode n1 = new Cp0094.TreeNode(1);
-        Cp0094.TreeNode n2 = new Cp0094.TreeNode(2);
-        Cp0094.TreeNode n3 = new Cp0094.TreeNode(3);
-        Cp0094.TreeNode n4 = new Cp0094.TreeNode(4);
-        Cp0094.TreeNode n5 = new Cp0094.TreeNode(5);
-        Cp0094.TreeNode n6 = new Cp0094.TreeNode(6);
-        Cp0094.TreeNode n7 = new Cp0094.TreeNode(7);
+        TreeNode n1 = new TreeNode(1);
+        TreeNode n2 = new TreeNode(2);
+        TreeNode n3 = new TreeNode(3);
+        TreeNode n4 = new TreeNode(4);
+        TreeNode n5 = new TreeNode(5);
+        TreeNode n6 = new TreeNode(6);
+        TreeNode n7 = new TreeNode(7);
         n1.left = n2;
         n1.right = n3;
         n2.left = n4;
