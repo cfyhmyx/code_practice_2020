@@ -6,7 +6,7 @@ public class Cp0306 {
     public static void main(String args[]) {
     }
 
-    // Main idea: dfs, backtracking.
+    // Main idea: backtracking.
     // Time: O(n^3), n is the length of the num.
     // Space: O(n), largest BigInteger.
     public static boolean isAdditiveNumber(String num) {
