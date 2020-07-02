@@ -14,7 +14,7 @@ public class Cp0017 {
     }
 
     // Main idea: dfs, backtracking.
-    // Time: O(k*m), k is constant, m is the digits length.
+    // Time: O(3^m), assume average character number is each key is 3, m is the digits length.
     // Space: O(m), recursion stack.
     public static List<String> letterCombinations(String digits) {
         Map<Character, Character[]> keyBoard = Initialize();
